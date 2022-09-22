@@ -1,1 +1,1 @@
-# Practical tasks. Created by Create React App
+# Practical tasks.
